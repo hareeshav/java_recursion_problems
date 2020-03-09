@@ -1,4 +1,4 @@
-package com.hareesh.recurion.basic;
+package com.hareesh.recursion.basic;
 
 public class SquareDemo {
 	
